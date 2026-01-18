@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "fname": "Amit",
+            "lname": "Agrahari",
+            "dept": "Sales",
+            "deptId": "1",
+            "gender": "Male",
+            "email": "amit.a.agrahari@capgemini.com",
+            "phone": "9811575804"
+        },
+        {
+            "fname": "Ankit",
+            "lname": "Kumar",
+            "dept": "Marketing",
+            "deptId": "2",
+            "gender": "Male",
+            "email": "amit.a.agrahari@capgemini.com",
+            "phone": "9811575804"
+        },
+        {
+            "fname": "Rohan",
+            "lname": "Agrahari",
+            "dept": "Engineering",
+             "deptId": "3",
+            "gender": "Male",
+            "email": "amit.a.agrahari@capgemini.com",
+            "phone": "9811575804"
+        },
+        {
+            "fname": "Akhil",
+            "lname": "Kumar",
+            "dept": "Finance",
+             "deptId": "4",
+            "gender": "Male",
+            "email": "amit.a.agrahari@capgemini.com",
+            "phone": "9811575804"
+        },
+        {
+            "fname": "Akhil",
+            "lname": "Kumar",
+            "dept": "Human Resources",
+             "deptId": "5",
+            "gender": "Male",
+            "email": "amit.a.agrahari@capgemini.com",
+            "phone": "9811575804"
+        }
+    ]
+}
